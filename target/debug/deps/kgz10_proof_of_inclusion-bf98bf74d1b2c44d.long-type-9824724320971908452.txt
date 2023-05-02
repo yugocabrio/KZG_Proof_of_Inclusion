@@ -1,0 +1,1 @@
+&(ark_poly_commit::kzg10::Commitment<Bls12<ark_bls12_381::Parameters>>, ark_poly_commit::kzg10::Randomness<ark_ff::fields::models::Fp256<FrParameters>, DensePolynomial<ark_ff::fields::models::Fp256<FrParameters>>>)
